@@ -1,0 +1,4 @@
+interface:
+  display_name: "fitness-coach"
+  short_description: "健身统一入口：知识答疑带出处、碳蛋脂配额计算、课程笔记与研究层检索三合一"
+  default_prompt: "使用 $fitness-coach 处理我的健身问题：需要知识就查库给出处，需要数字就算配额。"
